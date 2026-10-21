@@ -1,17 +1,17 @@
 <div align="center">
 
-  # Hi there, I'm Konstantina! 🌷✨
-  
-  ### 🎀 Junior Frontend Developer • Figma-to-Code Specialist
-  
-  **Turning coffee & creativity into fast, responsive, and pixel-perfect web experiences ☕🌸**  
-  *BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior & Remote Roles*
+# Hi there, I'm Konstantina! 🌷✨
 
-  <br />
+### 🎀 Junior Frontend Developer • Figma-to-Code Specialist
 
-  [![Email](https://img.shields.io/badge/Email-ferousikonstantina%40gmail.com-ff8b94?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferousikonstantina@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9bb7d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Explore-b5ead7?style=for-the-badge&logo=google-chrome&logoColor=2d3748)](https://pantzari.github.io)
+**Turning coffee & creativity into fast, responsive, and pixel-perfect web experiences ☕🌸**  
+*BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior & Remote Roles*
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-ferousikonstantina%40gmail.com-ff8b94?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferousikonstantina@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9bb7d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-b5ead7?style=for-the-badge&logo=google-chrome&logoColor=2d3748)](https://pantzari.github.io)
 
 </div>
 
@@ -27,16 +27,18 @@
 
 ### 🎀 Tech Stack & Toolkit
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-ff7675?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-74b9ff?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SCSS-fd79a8?style=flat-square&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/JavaScript-ffeaa7?style=flat-square&logo=javascript&logoColor=333" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Swiper.js-a29bfe?style=flat-square&logo=swiper&logoColor=white" alt="Swiper.js" />
-  <img src="https://img.shields.io/badge/Figma-ffb142?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-55efc4?style=flat-square&logo=git&logoColor=333" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-2d3436?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-ff7675?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-74b9ff?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-fd79a8?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffeaa7?style=flat-square&logo=javascript&logoColor=333)
+![Swiper.js](https://img.shields.io/badge/Swiper.js-a29bfe?style=flat-square&logo=swiper&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-ffb142?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-55efc4?style=flat-square&logo=git&logoColor=333)
+![GitHub](https://img.shields.io/badge/GitHub-2d3436?style=flat-square&logo=github&logoColor=white)
+
+</div>
 
 ---
 
@@ -48,8 +50,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🍳 Cooks Delight — Recipe Discovery</h3>
       <a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/">
-        <!-- Drag & drop your Cooks Delight mockup into GitHub to get the URL, then paste it below -->
-        <img src="PASTE_YOUR_COOKS_DELIGHT_IMAGE_URL_HERE" alt="Cooks Delight Preview" width="100%" style="border-radius: 12px;" />
+        <img src="PASTE_YOUR_COOKS_DELIGHT_IMAGE_URL_HERE" alt="Cooks Delight Preview" width="100%" />
       </a>
       <p>
         A responsive food discovery platform featuring dynamic client-side URL routing (<code>?id=...</code>) to asynchronously render individual recipes, interactive Swiper.js touch carousel, dietary/category filters, and an interactive ingredients checklist.
@@ -71,8 +72,7 @@
     <td width="50%" valign="top">
       <h3 align="center">⛰️ MNTN — A Hiking Guide Landing Page</h3>
       <a href="https://pantzari.github.io/landing-page-Hiking/">
-        <!-- Drag & drop your MNTN mockup into GitHub to get the URL, then paste it below -->
-        <img src="PASTE_YOUR_MNTN_IMAGE_URL_HERE" alt="MNTN Hiking Guide Preview" width="100%" style="border-radius: 12px;" />
+        <img src="PASTE_YOUR_MNTN_IMAGE_URL_HERE" alt="MNTN Hiking Guide Preview" width="100%" />
       </a>
       <p>
         An immersive mountain and hiking guide landing page translating complex Figma designs into responsive code. Features elegant typography, clean section navigation, fluid responsive cards, and outdoor-inspired UI aesthetics.
