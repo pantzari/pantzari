@@ -5,7 +5,7 @@
 ### 🎀 Junior Frontend Developer • Figma-to-Code Specialist
 
 **Turning coffee & creativity into fast, responsive, and pixel-perfect web experiences ☕🌸**  
-*BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior & Remote Roles*
+_BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior & Remote Roles_
 
 <br>
 
@@ -49,7 +49,7 @@
 <td width="50%" valign="top">
 <h3 align="center">🍳 Cooks Delight — Recipe Discovery</h3>
 <a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/">
-<img src="PASTE_YOUR_COOKS_DELIGHT_IMAGE_URL_HERE" alt="Cooks Delight Preview" width="100%" />
+<img src="./Thumbnail.png" alt="Cooks Delight Preview" width="100%" />
 </a>
 <p>A responsive food discovery platform featuring dynamic client-side URL routing (<code>?id=...</code>) to asynchronously render individual recipes, interactive Swiper.js touch carousel, dietary/category filters, and an interactive ingredients checklist.</p>
 <p><b>Tech:</b> <code>HTML5</code> • <code>SCSS</code> • <code>Vanilla JS (ES6+)</code> • <code>Swiper.js</code> • <code>JSON Data</code></p>
@@ -65,7 +65,7 @@
 <td width="50%" valign="top">
 <h3 align="center">⛰️ MNTN — A Hiking Guide Landing Page</h3>
 <a href="https://pantzari.github.io/landing-page-Hiking/">
-<img src="PASTE_YOUR_MNTN_IMAGE_URL_HERE" alt="MNTN Hiking Guide Preview" width="100%" />
+<img src="./mntn-thumbnail.png" alt="MNTN Hiking Guide Preview" width="100%" />
 </a>
 <p>An immersive mountain and hiking guide landing page translating complex Figma designs into responsive code. Features elegant typography, clean section navigation, fluid responsive cards, and outdoor-inspired UI aesthetics.</p>
 <p><b>Tech:</b> <code>HTML5</code> • <code>SCSS / CSS3</code> • <code>Responsive Design</code> • <code>Figma to Code</code></p>
