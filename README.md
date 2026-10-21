@@ -53,10 +53,10 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 <p>A responsive food discovery platform featuring dynamic client-side URL routing (<code>?id=...</code>) to asynchronously render individual recipes, interactive Swiper.js touch carousel, dietary/category filters, and an interactive ingredients checklist.</p>
 <p><b>Tech:</b> <code>HTML5</code> • <code>SCSS</code> • <code>Vanilla JS (ES6+)</code> • <code>Swiper.js</code> • <code>JSON Data</code></p>
 <div align="center">
-<a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/" target="_blank">
+<a href="https://pantzari.github.io/Cooking-Recipe-Blog/" target="_blank">
 <img src="https://img.shields.io/badge/✨_Live_Demo-ff8b94?style=for-the-badge&logoColor=white" alt="Live Demo" />
 </a>
-<a href="https://github.com/pantzari/Cooking-Recipe-Blog-main" target="_blank">
+<a href="https://github.com/pantzari/Cooking-Recipe-Blog" target="_blank">
 <img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
 </a>
 </div>
