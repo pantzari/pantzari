@@ -45,56 +45,40 @@
 ### ✨ Featured Projects
 
 <table>
-  <tr>
-    <!-- Project 1: Cooks Delight -->
-    <td width="50%" valign="top">
-      <h3 align="center">🍳 Cooks Delight — Recipe Discovery</h3>
-      <a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/">
-        <img src="PASTE_YOUR_COOKS_DELIGHT_IMAGE_URL_HERE" alt="Cooks Delight Preview" width="100%" />
-      </a>
-      <p>
-        A responsive food discovery platform featuring dynamic client-side URL routing (<code>?id=...</code>) to asynchronously render individual recipes, interactive Swiper.js touch carousel, dietary/category filters, and an interactive ingredients checklist.
-      </p>
-      <p>
-        <b>Tech:</b> <code>HTML5</code> • <code>SCSS</code> • <code>Vanilla JS (ES6+)</code> • <code>Swiper.js</code> • <code>JSON Data</code>
-      </p>
-      <div align="center">
-        <a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/" target="_blank">
-          <img src="https://img.shields.io/badge/✨_Live_Demo-ff8b94?style=for-the-badge&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/pantzari/Cooking-Recipe-Blog-main" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-        </a>
-      </div>
-    </td>
-
-    <!-- Project 2: MNTN Hiking Guide -->
-    <td width="50%" valign="top">
-      <h3 align="center">⛰️ MNTN — A Hiking Guide Landing Page</h3>
-      <a href="https://pantzari.github.io/landing-page-Hiking/">
-        <img src="PASTE_YOUR_MNTN_IMAGE_URL_HERE" alt="MNTN Hiking Guide Preview" width="100%" />
-      </a>
-      <p>
-        An immersive mountain and hiking guide landing page translating complex Figma designs into responsive code. Features elegant typography, clean section navigation, fluid responsive cards, and outdoor-inspired UI aesthetics.
-      </p>
-      <p>
-        <b>Tech:</b> <code>HTML5</code> • <code>SCSS / CSS3</code> • <code>Responsive Design</code> • <code>Figma to Code</code>
-      </p>
-      <div align="center">
-        <a href="https://pantzari.github.io/landing-page-Hiking/" target="_blank">
-          <img src="https://img.shields.io/badge/🌲_Live_Demo-55efc4?style=for-the-badge&logoColor=white" alt="Live Demo" />
-        </a>
-        <a href="https://github.com/pantzari/landing-page-Hiking" target="_blank">
-          <img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-        </a>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🍳 Cooks Delight — Recipe Discovery</h3>
+<a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/">
+<img src="PASTE_YOUR_COOKS_DELIGHT_IMAGE_URL_HERE" alt="Cooks Delight Preview" width="100%" />
+</a>
+<p>A responsive food discovery platform featuring dynamic client-side URL routing (<code>?id=...</code>) to asynchronously render individual recipes, interactive Swiper.js touch carousel, dietary/category filters, and an interactive ingredients checklist.</p>
+<p><b>Tech:</b> <code>HTML5</code> • <code>SCSS</code> • <code>Vanilla JS (ES6+)</code> • <code>Swiper.js</code> • <code>JSON Data</code></p>
+<div align="center">
+<a href="https://pantzari.github.io/Cooking-Recipe-Blog-main/" target="_blank">
+<img src="https://img.shields.io/badge/✨_Live_Demo-ff8b94?style=for-the-badge&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/pantzari/Cooking-Recipe-Blog-main" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+</a>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">⛰️ MNTN — A Hiking Guide Landing Page</h3>
+<a href="https://pantzari.github.io/landing-page-Hiking/">
+<img src="PASTE_YOUR_MNTN_IMAGE_URL_HERE" alt="MNTN Hiking Guide Preview" width="100%" />
+</a>
+<p>An immersive mountain and hiking guide landing page translating complex Figma designs into responsive code. Features elegant typography, clean section navigation, fluid responsive cards, and outdoor-inspired UI aesthetics.</p>
+<p><b>Tech:</b> <code>HTML5</code> • <code>SCSS / CSS3</code> • <code>Responsive Design</code> • <code>Figma to Code</code></p>
+<div align="center">
+<a href="https://pantzari.github.io/landing-page-Hiking/" target="_blank">
+<img src="https://img.shields.io/badge/🌲_Live_Demo-55efc4?style=for-the-badge&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/pantzari/landing-page-Hiking" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+</a>
+</div>
+</td>
+</tr>
 </table>
 
 ---
-
-<div align="center">
-  <p>🌸 <i>"Turning coffee and curiosity into delightful web experiences."</i> ☕</p>
-  <p>Let's build something lovely together: <a href="mailto:ferousikonstantina@gmail.com">ferousikonstantina@gmail.com</a></p>
-</div>
