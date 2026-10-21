@@ -10,7 +10,7 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 <br>
 
 [![Email](https://img.shields.io/badge/Email-ferousikonstantina%40gmail.com-ff8b94?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferousikonstantina@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/konstantina-ferousi-641230244/)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-9bb7d4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantina-ferousi-641230244/)
 
 </div>
 
