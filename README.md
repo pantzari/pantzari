@@ -93,3 +93,8 @@
 </table>
 
 ---
+
+<div align="center">
+  <p>🌸 <i>"Turning coffee and curiosity into delightful web experiences."</i> ☕</p>
+  <p>Let's build something lovely together: <a href="mailto:ferousikonstantina@gmail.com">ferousikonstantina@gmail.com</a></p>
+</div>
