@@ -4,7 +4,7 @@
 
 ### 🎀 Junior Frontend Developer • Figma-to-Code Specialist
 
-**Turning coffee & creativity into fast, responsive, and pixel-perfect web experiences ☕🌸**  
+**Turning creativity into fast, responsive, and pixel-perfect web experiences ☕🌸**  
 _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior & Remote Roles_
 
 <br>
