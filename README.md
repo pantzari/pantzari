@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Konstantina! 🌷✨
+# Hi there, I'm Konstantina! ✨
 
 ### 🎀 Junior Frontend Developer • Figma-to-Code Specialist
 
@@ -18,9 +18,9 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 
 ### 🌸 Quick Highlights for Teams & Recruiters
 
-- 🎨 **Figma to Pixel-Perfect Code:** Specialized in translating Figma design files into clean, accessible code with **HTML5, modular SCSS, CSS Grid, and Flexbox**.
-- 🌿 **1 Year Agency Tested:** Remote agency experience at **Threenitas** delivering landing pages and interactive components for brands like **Kägi** and **Fischer**.
-- 🧁 **Performance & Quality:** Focused on high Google Lighthouse scores, semantic HTML, cross-browser consistency, and clean git commits.
+-  **Figma to Pixel-Perfect Code:** Specialized in translating Figma design files into clean, accessible code with **HTML5, modular SCSS, CSS Grid, and Flexbox**.
+-  **1 Year Agency Tested:** Remote agency experience at **Threenitas** delivering landing pages and interactive components for brands like **Kägi** and **Fischer**.
+-  **Performance & Quality:** Focused on high Google Lighthouse scores, semantic HTML, cross-browser consistency, and clean git commits.
 
 ---
 
@@ -54,7 +54,7 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 <p><b>Tech:</b> <code>HTML5</code> • <code>SCSS</code> • <code>Vanilla JS (ES6+)</code> • <code>Swiper.js</code> • <code>JSON Data</code></p>
 <div align="center">
 <a href="https://pantzari.github.io/Cooking-Recipe-Blog/" target="_blank">
-<img src="https://img.shields.io/badge/✨_Live_Demo-ff8b94?style=for-the-badge&logoColor=white" alt="Live Demo" />
+<img src="https://img.shields.io/badge/_Live_Demo-ff8b94?style=for-the-badge&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/pantzari/Cooking-Recipe-Blog" target="_blank">
 <img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
@@ -70,7 +70,7 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 <p><b>Tech:</b> <code>HTML5</code> • <code>SCSS / CSS3</code> • <code>Responsive Design</code> • <code>Figma to Code</code></p>
 <div align="center">
 <a href="https://pantzari.github.io/landing-page-Hiking/" target="_blank">
-<img src="https://img.shields.io/badge/🌲_Live_Demo-55efc4?style=for-the-badge&logoColor=white" alt="Live Demo" />
+<img src="https://img.shields.io/badge/_Live_Demo-55efc4?style=for-the-badge&logoColor=white" alt="Live Demo" />
 </a>
 <a href="https://github.com/pantzari/landing-page-Hiking" target="_blank">
 <img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
