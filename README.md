@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # Hi there, I'm Konstantina! ✨
 
@@ -32,6 +32,7 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 ![CSS3](https://img.shields.io/badge/CSS3-74b9ff?style=flat-square&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-fd79a8?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffeaa7?style=flat-square&logo=javascript&logoColor=333)
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Swiper.js](https://img.shields.io/badge/Swiper.js-a29bfe?style=flat-square&logo=swiper&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-ffb142?style=flat-square&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-55efc4?style=flat-square&logo=git&logoColor=333)
@@ -62,25 +63,6 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 </div>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">⛰️ MNTN — A Hiking Guide Landing Page</h3>
-<a href="https://pantzari.github.io/landing-page-Hiking/">
-<img src="./mntn-thumbnail.png" alt="MNTN Hiking Guide Preview" width="100%" />
-</a>
-<p>An immersive mountain and hiking guide landing page translating complex Figma designs into responsive code. Features elegant typography, clean section navigation, fluid responsive cards, and outdoor-inspired UI aesthetics.</p>
-<p><b>Tech:</b> <code>HTML5</code> • <code>SCSS / CSS3</code> • <code>Responsive Design</code> • <code>Figma to Code</code></p>
-<div align="center">
-<a href="https://pantzari.github.io/landing-page-Hiking/" target="_blank">
-<img src="https://img.shields.io/badge/_Live_Demo-55efc4?style=for-the-badge&logoColor=white" alt="Live Demo" />
-</a>
-<a href="https://github.com/pantzari/landing-page-Hiking" target="_blank">
-<img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
-</a>
-</div>
-</td>
-</tr>
-```html
-<tr>
-<td width="50%" valign="top">
 <h3 align="center">🎀 Job Tracker — Vue.js Web App</h3>
 <a href="YOUR_LIVE_DEMO_URL">
 <img src="./jobtracker.png" alt="Job Tracker Preview" width="100%" />
@@ -97,7 +79,26 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 </div>
 </td>
 </tr>
-```
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">⛰️ MNTN — A Hiking Guide Landing Page</h3>
+<a href="https://pantzari.github.io/landing-page-Hiking/">
+<img src="./mntn-thumbnail.png" alt="MNTN Hiking Guide Preview" width="100%" />
+</a>
+<p>An immersive mountain and hiking guide landing page translating complex Figma designs into responsive code. Features elegant typography, clean section navigation, fluid responsive cards, and outdoor-inspired UI aesthetics.</p>
+<p><b>Tech:</b> <code>HTML5</code> • <code>SCSS / CSS3</code> • <code>Responsive Design</code> • <code>Figma to Code</code></p>
+<div align="center">
+<a href="https://pantzari.github.io/landing-page-Hiking/" target="_blank">
+<img src="https://img.shields.io/badge/_Live_Demo-55efc4?style=for-the-badge&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/pantzari/landing-page-Hiking" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+</a>
+</div>
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
 </table>
 
 ---
