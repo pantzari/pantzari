@@ -18,9 +18,9 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 
 ### 🌸 Quick Highlights for Teams & Recruiters
 
--  **Figma to Pixel-Perfect Code:** Specialized in translating Figma design files into clean, accessible code with **HTML5, modular SCSS, CSS Grid, and Flexbox**.
--  **1 Year Agency Tested:** Remote agency experience at **Threenitas** delivering landing pages and interactive components for brands like **Kägi** and **Fischer**.
--  **Performance & Quality:** Focused on high Google Lighthouse scores, semantic HTML, cross-browser consistency, and clean git commits.
+- **Figma to Pixel-Perfect Code:** Specialized in translating Figma design files into clean, accessible code with **HTML5, modular SCSS, CSS Grid, and Flexbox**.
+- **1 Year Agency Tested:** Remote agency experience at **Threenitas** delivering landing pages and interactive components for brands like **Kägi** and **Fischer**.
+- **Performance & Quality:** Focused on high Google Lighthouse scores, semantic HTML, cross-browser consistency, and clean git commits.
 
 ---
 
@@ -78,6 +78,26 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 </div>
 </td>
 </tr>
+```html
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🎀 Job Tracker — Application Manager</h3>
+<a href="YOUR_LIVE_DEMO_URL">
+<img src="./job-thumb.png" alt="Job Tracker Preview" width="100%" />
+</a>
+<p>A personal job application tracker built in a day to learn Vue.js and create a tool I needed but couldn't find. Tracks companies, job roles, application dates, statuses, and job posting links, with automatic data persistence using LocalStorage. Expanded beyond its initial release with features based on my own needs.</p>
+<p><b>Tech:</b> <code>Vue.js 3</code> • <code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code> • <code>LocalStorage</code> • <code>Vite</code></p>
+<div align="center">
+<a href="https://github.com/pantzari/VUE-job-tracker/releases/tag/v.1" target="_blank">
+<img src="https://img.shields.io/badge/_Live_Demo-ff8b94?style=for-the-badge&logoColor=white" alt="Live App" />
+</a>
+<a href="https://github.com/pantzari/VUE-job-tracker" target="_blank">
+<img src="https://img.shields.io/badge/View_Code-2d3436?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+</a>
+</div>
+</td>
+</tr>
+```
 </table>
 
 ---
