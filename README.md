@@ -83,7 +83,7 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 <td width="50%" valign="top">
 <h3 align="center">🎀 Job Tracker — Application Manager</h3>
 <a href="YOUR_LIVE_DEMO_URL">
-<img src="./job-thumb.png" alt="Job Tracker Preview" width="100%" />
+<img src="./jobtracker.png" alt="Job Tracker Preview" width="100%" />
 </a>
 <p>A personal job application tracker built in a day to learn Vue.js and create a tool I needed but couldn't find. Tracks companies, job roles, application dates, statuses, and job posting links, with automatic data persistence using LocalStorage. Expanded beyond its initial release with features based on my own needs.</p>
 <p><b>Tech:</b> <code>Vue.js 3</code> • <code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code> • <code>LocalStorage</code> • <code>Vite</code></p>
