@@ -81,7 +81,7 @@ _BSc in Computer Science • 1 Year Remote Agency Experience • Open to Junior 
 ```html
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🎀 Job Tracker — Application Manager</h3>
+<h3 align="center">🎀 Job Tracker — Vue.js Web App</h3>
 <a href="YOUR_LIVE_DEMO_URL">
 <img src="./jobtracker.png" alt="Job Tracker Preview" width="100%" />
 </a>
